@@ -3,7 +3,7 @@
 <h3>ENTER YOUR NAME : Dharshini S N</h3>
 <h3>ENTER YOUR REGISTER NO. : 212224230062</h3>
 <h3>EX. NO : 05</h3>
-<h3>DATE : </h3>
+<h3>DATE : 24.11.2026 </h3>
 
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   
